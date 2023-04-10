@@ -2,7 +2,7 @@
 
 Submitted by: **Alexandra Rhodes**
 
-This web app: **insert description**
+This web app: **Displays the members of the Clue Crew: memebers of the Nancy Drew universe**
 
 Time spent: **4** hours spent in total
 
@@ -25,6 +25,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+![](https://github.com/alexperryrhodes/clue-crew/blob/main/gif.gif)
 
 ## Notes
 
