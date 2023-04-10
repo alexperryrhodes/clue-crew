@@ -4,3 +4,37 @@
   padding: 2rem;
   text-align: center;
 }
+
+.navButton {
+  background-color: darkslategray;
+  margin: 20px;
+}
+
+.ReadCrew {
+  display: grid;
+  grid-auto-flow: row;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+
+}
+
+.Card {
+  background: linear-gradient(to right, rgb(12, 51, 60) 3px, rgba(255, 255, 255, 0.5) 5px, rgba(255, 255, 255, 0.25) 7px, rgba(255, 255, 255, 0.25) 10px, transparent 12px, transparent 16px, rgba(255, 255, 255, 0.25) 17px, transparent 22px);
+  background-color: darkslategray;
+  box-shadow: 0 0 5px -1px black, inset -1px 1px 2px rgba(255, 255, 255, 0.5);
+  margin: auto;
+  border-radius: 5px;
+  width: 290px;
+  height: 375px;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: center;
+  margin: 25px ;
+}
+
+
+.magnifyImg {
+  width: 50px;
+  height: 50px;
+}
